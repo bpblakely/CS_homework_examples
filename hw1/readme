@@ -1,0 +1,7 @@
+The file you need to run is task.rb
+
+To run it you need to make sure you have a prebuilt text file to be read for function 2 otherwise the program will crash. Function 2 had room for interpretation, thus
+I wrote it such that the second it finds a keyword it prints it and closes the file. I assumed there shouldn't be multiple outputs for one file. I used a priority system based on
+whichever keyword was listed first in the problem statement.
+
+For function 5 the text file needs to be named story.txt

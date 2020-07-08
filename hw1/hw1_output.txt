@@ -1,0 +1,119 @@
+function 1
+Input 2 lines, using enter to separate them
+line 1
+line 2
+function 2
+Type the name of a file
+temp.txt
+This file is so so
+function 3
+The square of integer 1 is 1
+The square of integer 2 is 4
+The square of integer 3 is 9
+The square of integer 4 is 16
+The square of integer 5 is 25
+The square of integer 6 is 36
+The square of integer 7 is 49
+The square of integer 8 is 64
+The square of integer 9 is 81
+The square of integer 10 is 100
+The square of integer 11 is 121
+The square of integer 12 is 144
+The square of integer 13 is 169
+The square of integer 14 is 196
+The square of integer 15 is 225
+The square of integer 16 is 256
+The square of integer 17 is 289
+The square of integer 18 is 324
+The square of integer 19 is 361
+The square of integer 20 is 400
+The square of integer 21 is 441
+The square of integer 22 is 484
+The square of integer 23 is 529
+The square of integer 24 is 576
+The square of integer 25 is 625
+The square of integer 26 is 676
+The square of integer 27 is 729
+The square of integer 28 is 784
+The square of integer 29 is 841
+The square of integer 30 is 900
+The square of integer 31 is 961
+The square of integer 32 is 1024
+The square of integer 33 is 1089
+The square of integer 34 is 1156
+The square of integer 35 is 1225
+The square of integer 36 is 1296
+The square of integer 37 is 1369
+The square of integer 38 is 1444
+The square of integer 39 is 1521
+The square of integer 40 is 1600
+The square of integer 41 is 1681
+The square of integer 42 is 1764
+The square of integer 43 is 1849
+The square of integer 44 is 1936
+The square of integer 45 is 2025
+The square of integer 46 is 2116
+The square of integer 47 is 2209
+The square of integer 48 is 2304
+The square of integer 49 is 2401
+The square of integer 50 is 2500
+The square of integer 51 is 2601
+The square of integer 52 is 2704
+The square of integer 53 is 2809
+The square of integer 54 is 2916
+The square of integer 55 is 3025
+The square of integer 56 is 3136
+The square of integer 57 is 3249
+The square of integer 58 is 3364
+The square of integer 59 is 3481
+The square of integer 60 is 3600
+The square of integer 61 is 3721
+The square of integer 62 is 3844
+The square of integer 63 is 3969
+The square of integer 64 is 4096
+The square of integer 65 is 4225
+The square of integer 66 is 4356
+The square of integer 67 is 4489
+The square of integer 68 is 4624
+The square of integer 69 is 4761
+The square of integer 70 is 4900
+The square of integer 71 is 5041
+The square of integer 72 is 5184
+The square of integer 73 is 5329
+The square of integer 74 is 5476
+The square of integer 75 is 5625
+The square of integer 76 is 5776
+The square of integer 77 is 5929
+The square of integer 78 is 6084
+The square of integer 79 is 6241
+The square of integer 80 is 6400
+The square of integer 81 is 6561
+The square of integer 82 is 6724
+The square of integer 83 is 6889
+The square of integer 84 is 7056
+The square of integer 85 is 7225
+The square of integer 86 is 7396
+The square of integer 87 is 7569
+The square of integer 88 is 7744
+The square of integer 89 is 7921
+The square of integer 90 is 8100
+The square of integer 91 is 8281
+The square of integer 92 is 8464
+The square of integer 93 is 8649
+The square of integer 94 is 8836
+The square of integer 95 is 9025
+The square of integer 96 is 9216
+The square of integer 97 is 9409
+The square of integer 98 is 9604
+The square of integer 99 is 9801
+The square of integer 100 is 10000
+function 4
+Pick a number between 10 and 100
+80
+H : T ratio,  38 : 42
+function 5
+Total words = 1812
+Unique words = 643
+Third most frequent word is 'and' with a frequency of 52 out of 1812 total words
+
+Process finished with exit code 0
